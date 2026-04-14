@@ -1,4 +1,4 @@
-# Ed_Kerby_Resume
+# Ed Kerby Resume
 
 ## Live Demo: https://kibikun.github.io/Ed_Kerby_Resume/  
 
